@@ -1,0 +1,30 @@
+.footer {
+  background-color: #2C2B2B;
+  height: 150px;
+  text-align: center;
+  padding: 50px;
+}
+
+.footer p {
+  color: rgb(196, 196, 196);
+  opacity: 0.5;
+}
+
+.rrss {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer a{
+  font-size: 30px;
+  color: #1EDD88;
+  margin: 10px;
+}
+
+.footer a:hover {
+  color: #66f0b2;
+}
+
+.fas {
+  color: rgb(233, 34, 34);
+}
